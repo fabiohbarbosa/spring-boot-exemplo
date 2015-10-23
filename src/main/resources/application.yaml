@@ -1,6 +1,6 @@
 spring:
  application.name: spring-boot-examplo
-      
+
 server:
  port: 8083
- contextPath: /boot
+ contextPath: /spring-boot-examplo
